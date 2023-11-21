@@ -1,2 +1,4 @@
 # R4K1B-C4LCUL4T0R
-This Tool Is Made By ICS Team This tool is used for calculating on termux.
+git clone https://github.com/R4K1B-BR0/R4K1B-C4LCUL4T0R
+cd R4K1B-C4LCUL4T0R
+python3 calculator.py
